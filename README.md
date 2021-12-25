@@ -27,3 +27,7 @@ Vickrey Auction
 https://en.wikipedia.org/wiki/Vickrey_auction
 
 ![William Vickrey](William_Vickrey.gif)
+
+## Search Creative Best Practises
+
+https://services.google.com/fh/files/misc/creativebestpracticesguide.pdf
