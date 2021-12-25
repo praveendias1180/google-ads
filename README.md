@@ -37,3 +37,7 @@ https://services.google.com/fh/files/misc/creativebestpracticesguide.pdf
 Performance Planner (Budget Planner) is a forecasting tool that uses machine learning to reveal the possibilities for your Google Ads campaigns. With this tool, you can explore forecasts for your upcoming monthly, quarterly, and annual budgets for current campaigns, while also helping to improve your return on investment.
 
 ![Performance Planner](performance-planner.png)
+
+> Based on 250 random Google Ads Customer IDs*, Performance Planner highlighted how to find an average 43% increase in conversions — for the same investment — by reallocating bids and budgets between campaigns. It's also been seen to highlight how to grow conversions by 80% for the same CPA (no diminishing returns).
+> 
+> *Source: Internal Performance Planner pipeline data
