@@ -31,3 +31,9 @@ https://en.wikipedia.org/wiki/Vickrey_auction
 ## Search Creative Best Practises
 
 https://services.google.com/fh/files/misc/creativebestpracticesguide.pdf
+
+# Forecasting Tool (Performance Planner)
+
+Performance Planner (Budget Planner) is a forecasting tool that uses machine learning to reveal the possibilities for your Google Ads campaigns. With this tool, you can explore forecasts for your upcoming monthly, quarterly, and annual budgets for current campaigns, while also helping to improve your return on investment.
+
+![Performance Planner](performance-planner.png)
