@@ -41,3 +41,10 @@ Performance Planner (Budget Planner) is a forecasting tool that uses machine lea
 > Based on 250 random Google Ads Customer IDs*, Performance Planner highlighted how to find an average 43% increase in conversions — for the same investment — by reallocating bids and budgets between campaigns. It's also been seen to highlight how to grow conversions by 80% for the same CPA (no diminishing returns).
 > 
 > *Source: Internal Performance Planner pipeline data
+
+# Google Ads Certified
+
+![98](98.png)
+![Ads Certified](ads-certified.png)
+
+https://skillshop.exceedlms.com/student/award/wFX4FBg6fdekwmPuP5VE5NJ8
